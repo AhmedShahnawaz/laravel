@@ -1,0 +1,6 @@
+composer install
+Create a copy of your .env file cp .env.example .env
+php artisan storage:link
+php artisan key:generate
+php artisan migrate
+php artisan config:cache
