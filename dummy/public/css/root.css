@@ -1,0 +1,8 @@
+:root {
+    --p-color: rgb(0, 0, 0);
+    --s-color: rgb(225, 246, 255);
+    --s-bg-color: rgb(175, 236, 255);
+    --s-hover-color: rgb(128, 225, 255);
+    --bg-gradient: linear-gradient(rgba(121, 121, 121, 0.7), rgba(136, 136, 136, 0.8));
+     --btn-shadow:0 0 0 0.25rem rgb(255 130 234 / 24%);
+  }
